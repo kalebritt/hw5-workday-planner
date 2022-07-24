@@ -1,7 +1,9 @@
 //display current date
 var today = moment();
 $("#currentDay").text(today.format("dddd, MMM Do, YYYY"));
+var button = $(".saveBtn");
 
+//if-else statement to change color of timeblocks
 function currentTime() {
   var current = moment().hours();
   var time = $(".time-block");
@@ -26,8 +28,3 @@ function currentTime() {
   });
 }
 currentTime();
-
-button.on("click", function (event)){
-  event.preventDefault()
-}
-
