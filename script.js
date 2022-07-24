@@ -8,7 +8,7 @@ function currentTime() {
 
   time.each(function () {
     var hour = parseInt($(this).attr("id"));
-    console.log(hour);
+    //console.log(hour);
 
     if (hour === current) {
       $(this)
@@ -26,3 +26,8 @@ function currentTime() {
   });
 }
 currentTime();
+
+button.on("click", function (event)){
+  event.preventDefault()
+}
+
