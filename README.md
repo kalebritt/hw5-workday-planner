@@ -15,9 +15,9 @@ Installation
 Usage
 The screenshot is of the app after a game has been played and the score saved of player 'cl'omp.'
 
-![alt text] (assets/images/quizscreenshot.png)
+![alt text] (assets/images/screenshot.wkdy.plnnr.png)
 
 Credits
-I'd like to thank the wise and knowledgeable Jude C. for her tremendous support, advice, and assistance. Simply impossible without her.
+Too many countless sources online to properly credit! Namely, MDN docs and stackoverflow.
 
-Play the game here: https://kalebritt.github.io/javascript-quiz/
+Check out the Workday Planner here: https://kalebritt.github.io/javascript-quiz/
