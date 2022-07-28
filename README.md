@@ -13,7 +13,8 @@ Credits
 License
 Installation
 Usage
-The screenshot is of the app after a game has been played and the score saved of player 'cl'omp.'
+
+Screenshot!
 
 ![alt text] (assets/images/screenshot.wkdy.plnnr.png)
 
